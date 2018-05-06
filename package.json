@@ -1,0 +1,17 @@
+{
+  "name": "mini-eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Condon <m@cond.in> (http://mat.tc)",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {
+    "web3-utils": "^1.0.0-beta.34"
+  }
+}
